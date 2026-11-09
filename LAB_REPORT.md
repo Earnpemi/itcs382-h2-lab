@@ -201,5 +201,5 @@ Package that accesses it: storage package.
 ## AI usage declaration
 
 | AI tool and exact model | Date | Purpose | Files or answers it produced or changed | How you checked its output |
-| --- | --- | --- | --- | --- |
-| | | | | |
+| Gemini 2.5 Flash | 2026-11-09 | Environment troubleshooting, code implementation guidance, and lab report answers | H2ParcelRepository.java (findAll method), LAB_REPORT.md (Part 0, Part A diagrams, Part B design questions) | Compiled code with Maven, tested commands in ParcelPoint CLI, verified database queries in H2 Shell, and double-checked diagrams against project source code. |
+|  | | | | |
